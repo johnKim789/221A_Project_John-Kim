@@ -20,3 +20,4 @@ The data contain 117,293 original respondent records and one artificial empty-co
 
 The `raw` folder means input to your course project; it does not mean that this file contains the authors’ untouched raw data.
 
+# 221A_Project_John-Kim
